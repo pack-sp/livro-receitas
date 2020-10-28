@@ -6,5 +6,5 @@ Olá! Bem vindo ao meu livro de receitas. :fish:
 
 - Strogonoff de Carne
 - Pavê
-- Costelinha Suína no Barbecue
+- Costelinha Suína ao Barbecue
 
